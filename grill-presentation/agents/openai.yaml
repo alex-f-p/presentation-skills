@@ -1,0 +1,5 @@
+interface:
+  display_name: "Grill a presentation"
+  short_description: "Challenge presentation choices before creation"
+policy:
+  allow_implicit_invocation: false
