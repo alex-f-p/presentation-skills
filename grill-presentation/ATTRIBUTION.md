@@ -9,3 +9,5 @@ The interview method is adapted from Matt Pocock’s `grill-me` and `grilling` s
 This adaptation retains dependent questioning, investigation of available facts and iterative refinement. It adds presentation-specific branches, a concise brief, readiness for the next task and optional routing to related presentation skills. It replaces exhaustive branching and blanket confirmation with scope-aware completion.
 
 Matt Pocock’s original copyright and MIT permission notice are preserved in [LICENSE](LICENSE). These links document provenance; using this skill requires no access to the upstream repository.
+
+The presentation-specific additions are covered by the [project MIT licence](LICENSE.project).

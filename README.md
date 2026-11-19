@@ -55,3 +55,11 @@ Each skill bundles the same editorial rules for wording and visual choices. Agen
 Some reference files are intentionally copied into several skill folders so each package remains self-contained when installed independently. Keep corresponding copies consistent when changing a shared convention.
 
 Maintainers can use the [evaluation protocol](EVALUATION.md) to compare skill revisions. It is separate from normal presentation work.
+
+## Licence
+
+Each skill folder includes the applicable notices for the [MIT License](LICENSE).
+
+---
+
+Shared by [Signal Eight](https://www.signaleight.ai/).
